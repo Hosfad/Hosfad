@@ -16,14 +16,13 @@
 </a>
 
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; Java, Javascript, C++
+  - &nbsp; Java, Javascript, C#, C++
   - &nbsp; Full-Stack Development
-  - &nbsp; Native Reverse Engineering
+  - &nbsp; Reverse Engineering & Cyber Security
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
-  - &nbsp; Reverse Engineering
+  - &nbsp; Reverse Engineering & Cyber Security
   - &nbsp; Automation for games and websites
-  - &nbsp; Cyber Security
 - 📫 &nbsp; Reach out to me on: **Discord** @ `Hosfad#1817`
 
 <br>
