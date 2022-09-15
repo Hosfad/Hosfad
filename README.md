@@ -15,6 +15,7 @@
 <img align="right" src="https://media.discordapp.net/attachments/871286058279637002/1020078509571457075/logoCircle.gif" alt="Hosfad Profile" />
 </a>
 
+- I'm a 22 year old Conputer science and Cyper security student 
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; Java, Javascript, C#, C++
   - &nbsp; Full-Stack Development
