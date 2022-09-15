@@ -111,11 +111,10 @@
 
 <br>
 
-### <p align="center" id="hosfad-hobby-tech">Hobby Tech</p>
+### <p align="center" id="hosfad-hobby-tech">Other tech & tools</p>
 
 ---
 
-<p align="center">Other tools and languages I like to work with outside of work.</p>
 
 <table align="center">
   <tr>
