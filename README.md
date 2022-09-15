@@ -10,6 +10,7 @@
 
 
 ### Hello there! Welcome to my profile 👋
+I'm a 22 year old Computer science & Cypersecurity student
 
 <a href="https://github.com/Hosfad">
 <img align="right" src="https://media.discordapp.net/attachments/871286058279637002/1020078509571457075/logoCircle.gif" alt="Hosfad Profile" />
