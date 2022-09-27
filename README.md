@@ -13,7 +13,7 @@
 I'm a 22 year old Computer science & Cypersecurity student
 
 <a href="https://github.com/Hosfad">
-<img align="right" src="https://media.discordapp.net/attachments/871286058279637002/1020078509571457075/logoCircle.gif" alt="Hosfad Profile" />
+<img align="right" src="https://cdn.discordapp.com/attachments/1009770254362234880/1024246225832247327/logoCircle.gif" alt="Hosfad Profile" />
 </a>
 
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
