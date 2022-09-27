@@ -53,55 +53,55 @@ I'm a 22 year old Computer science & Cypersecurity student
   <tr>
    <td align="center" width="96">
       <a href="#hosfad-hobby-tech">
-        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/java-icon.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
        <td align="center" width="96">
       <a href="#hosfad-hobby-tech">
-        <img src="./img/asm-logo.svg" width="48" height="48" alt="Java ObjectWeb ASM" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/asm-logo.svg" width="48" height="48" alt="Java ObjectWeb ASM" />
       </a>
       <br>ASM
     </td>
    <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
         <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
         <td align="center" width="96">
       <a href="#hosfad-hobby-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
       <td align="center" width="96">
       <a href="#hosfad-hobby-tech">
-        <img src="./img/logo_Cplusplus.svg" width="48" height="48" alt="Cpp" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/logo_Cplusplus.svg" width="48" height="48" alt="Cpp" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/aws.png" width="48" height="48" alt="C#" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/aws.png" width="48" height="48" alt="C#" />
       </a>
       <br>AWS
     </td>
       <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/Mongodb.png" width="48" height="48" alt="C#" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/Mongodb.png" width="48" height="48" alt="C#" />
       </a>
       <br>Mongodb
     </td>
@@ -120,49 +120,49 @@ I'm a 22 year old Computer science & Cypersecurity student
   <tr>
    <td align="center" width="96">
       <a href="#hosfad-hobby-tech">
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/docker-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Docker
     </td>
        <td align="center" width="96">
       <a href="#hosfad-hobby-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Java ObjectWeb ASM" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/go-flat.svg" width="48" height="48" alt="Java ObjectWeb ASM" />
       </a>
       <br>Go
     </td>
    <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/python-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Python
     </td>
         <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/net-core-logo.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/net-core-logo.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>.NET
     </td>
         <td align="center" width="96">
       <a href="#hosfad-hobby-tech" >
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/mysql-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>MySQL
     </td>
       <td align="center" width="96">
       <a href="#hosfad-hobby-tech">
-        <img src="./img/jquery-icon.svg" width="48" height="48" alt="Cpp" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/jquery-icon.svg" width="48" height="48" alt="Cpp" />
       </a>
       <br>JQuery
     </td>
     <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/rust-logo.svg" width="48" height="48" alt="C#" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/rust-logo.svg" width="48" height="48" alt="C#" />
       </a>
       <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#hosfad-professional-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://raw.githubusercontent.com/Hosfad/Hosfad/main/img/sass-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>Sass
     </td>
