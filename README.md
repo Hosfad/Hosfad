@@ -10,6 +10,9 @@
 
 ### Hello there! Welcome to my profile 👋
 
+---
+
+
 <a href="https://github.com/Hosfad">
 <img align="right" src="https://cdn.discordapp.com/attachments/1009770254362234880/1024246225832247327/logoCircle.gif" alt="Hosfad Profile" />
 </a>
