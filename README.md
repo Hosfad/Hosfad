@@ -19,7 +19,7 @@
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 - ℹ️ &nbsp; About me:
-  - &nbsp; Im a 22 year old Computer science student from Israel, Really interested in Programing, Reverse engineering, Cyper security and millitary stuff
+  - &nbsp; Im a 22 year old Computer science student from Israel, Really interested in Programing, Reverse engineering, Cyper security and military stuff
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
   - &nbsp; Java, Javascript, C#, C++
   - &nbsp; ASM & Bytecode manipulation
