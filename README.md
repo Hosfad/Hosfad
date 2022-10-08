@@ -21,8 +21,8 @@
   - &nbsp; Automation for games and websites
   - &nbsp; Geopolitics & Military stuff
 - 📫 &nbsp; Reach out to me :
-  - &nbsp; **Discord**  `Hosfad#1817`
-
+  - &nbsp; **Discord**:  `Hosfad#1817`
+  - &nbsp; **Email**:  `Firas@Hosfad.dev`
 <br>
 
 ### <p align="center" id="hosfad-stats">Github Stats</p>
