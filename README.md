@@ -10,18 +10,16 @@
 
 ### Hello there! Welcome to my profile 👋
 
----
-
 - ℹ️ &nbsp; About me:
-  - &nbsp; Im a 22 year old Computer science student from Israel, Really interested in Programing, Reverse engineering, Cyper security and military stuff
+  - &nbsp; Im a 22 year old Computer science student from Israel
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; Java, Javascript, C#, C++
+  - &nbsp; Java, Javascript, C#, C++, Python
   - &nbsp; ASM & Bytecode manipulation
   - &nbsp; Reverse Engineering & Cyber Security
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
-  - &nbsp; Reverse Engineering & Cyber Security
   - &nbsp; Automation for games and websites
+  - &nbsp; Geopolitics && Military stuff
 - 📫 &nbsp; Reach out to me :
   - &nbsp; **Discord**  `Hosfad#1817`
 
