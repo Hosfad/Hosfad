@@ -19,6 +19,7 @@
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Automation for games and websites
+  - &nbsp; Discord and Telegram bots
   - &nbsp; Geopolitics & Military stuff
 - 📫 &nbsp; Reach out to me :
   - &nbsp; **Discord**:  `Hosfad#1817`
