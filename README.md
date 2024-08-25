@@ -22,7 +22,7 @@
   - &nbsp; Geopolitics & Military stuff
 - 📫 &nbsp; Reach out to me :
   - &nbsp; **Discord**:  `@hosfad`
-  - &nbsp; **Email**:  `Firas@Hosfad.dev`
+  - &nbsp; **Email**:  `Firas@hosfad.dev`
 <br>
 
 ### <p align="center" id="hosfad-stats">Github Stats</p>
