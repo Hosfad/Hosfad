@@ -11,18 +11,17 @@
 ### Hello there! Welcome to my profile 👋
 
 - ℹ️ &nbsp; About me:
-  - &nbsp; Im a 22 year old Computer science student from Israel
+  - &nbsp; Im a 24 year old Computer science student.
 - 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; Java, Javascript, C#, C++, Python
+  - &nbsp; Java, Javascript, Go, C, C++, Python
   - &nbsp; ASM & Bytecode manipulation
   - &nbsp; Reverse Engineering & Cyber Security
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Automation for games and websites
-  - &nbsp; Discord and Telegram bots
   - &nbsp; Geopolitics & Military stuff
 - 📫 &nbsp; Reach out to me :
-  - &nbsp; **Discord**:  `Hosfad#1817`
+  - &nbsp; **Discord**:  `@hosfad`
   - &nbsp; **Email**:  `Firas@Hosfad.dev`
 <br>
 
