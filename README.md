@@ -19,7 +19,6 @@
 - 🧠 &nbsp; Interests include:
   - &nbsp; Full-Stack Development
   - &nbsp; Automation for games and websites
-  - &nbsp; Geopolitics & Military stuff
 - 📫 &nbsp; Reach out to me :
   - &nbsp; **Discord**:  `@hosfad`
   - &nbsp; **Email**:  `Firas@hosfad.dev`
